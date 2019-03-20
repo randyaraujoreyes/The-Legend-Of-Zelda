@@ -1,0 +1,8 @@
+body { background-color:green; 
+ }
+ h1{display:flex; justify-content:center; 
+ color:gold;}
+ .chest { display:flex; justify-content:center;}
+ h2 { color:gold;}
+ 
+ 
